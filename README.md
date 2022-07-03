@@ -1,2 +1,10 @@
-# cloneMonopoly
-I wanted to play monopoly with my friends online, with my rules. Because i couldn't find a free website that would let me, I made it myself.
+# IF you wan't to play aswell:
+
+1. You can just head over to  link provided.
+
+> OR if you want to localy host for your self
+
+###### on your terminal
+
+1. run: ``` yarn ``` 
+2. run ```yarn dev ```
