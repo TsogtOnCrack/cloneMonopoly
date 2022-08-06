@@ -9,10 +9,10 @@ export const Typography = (props) => {
         return 'font-bold text-[10px]'
       case 'main-big':
         return 'font-bold text-[25px]'
-    
+      case 'mega':
+        return 'font-bold text-[30px]'
     }
   }
-
 
   return <div className={` ${className}  ${getStyle()}  text-center `}>{children}</div>
 }
